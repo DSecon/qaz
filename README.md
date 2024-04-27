@@ -1,1 +1,1 @@
-# qaz
+os.environ.get('FLAG')
